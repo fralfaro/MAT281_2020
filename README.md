@@ -11,7 +11,7 @@
     - Casa Central: [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
     - Campus San Joaquín: [Francisco Alfaro](https://www.linkedin.com/in/francisco-alfaro-medina-80820aa2)
 
-* **Repositorio Código**: [mat281_2019S2](https://github.com/aLoNsolml/mat281_2019S2)
+* **Repositorio Código**: [MAT281_2020](https://github.com/FranciscoAlfaroMedina/MAT281_2020)
 
 * **Licencia**: [MIT](./LICENCE.md)
 
@@ -22,8 +22,6 @@
 * **Módulo 1 - Análisis de datos:** Tipos de datos, obtención de datos, detección de errores, análisis, visualización.
 
 * **Módulo 2 - Machine Learning:** Obtener conocimiento a través de los datos, predecir valores. Darle valor a los datos.
-
-* **Módulo 3 - Data Science:** Bienvenido al mundo real.
 
 
 
