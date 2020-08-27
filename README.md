@@ -5,7 +5,7 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_2019S2/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranciscoAlfaroMedina/MAT281_2020/master)
 
 * **Docentes**:  
     - Casa Central: [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
