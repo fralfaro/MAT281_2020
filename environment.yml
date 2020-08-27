@@ -1,0 +1,19 @@
+name: mat281
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab=1.2.0
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - numpy
+  - pandas
+  - pandas-profiling
+  - pip
+  - python=3.7
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+
+
